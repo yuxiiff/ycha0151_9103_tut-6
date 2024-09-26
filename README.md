@@ -1,5 +1,3 @@
-# ycha0151_9103_tut-6
-
 # QUIZ 8
 ### Part 1: Imaging Technique Inspiration
 Inspired by the picture of the starry sky and orbit (*image 1*), I created an interactive starry sky that can be zoomed in and out by the mouse. It gives the user a feeling of being in the starry sky. I will use the loose arrangement of the circles in picture (*image 2*) to create an extended effect, and add planets to embellish the picture. To highlight the colour of the canva, the colour value of the painting of the starry sky (*image 3*) is brought into the circle of the picture. Through simple lines and patterns, a strong and interactive picture is created. 
